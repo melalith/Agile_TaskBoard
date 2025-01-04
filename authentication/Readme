@@ -1,0 +1,4 @@
+Execute `jwtAuthentication.js` to generate `Token.json`
+
+Header attach to Requests:
+Token Value within - Token.json
